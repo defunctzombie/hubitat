@@ -1,0 +1,17 @@
+{
+    "author": "Roman Shtylman",
+    "gitHubUrl": "https://github.com/defunctzombie",
+    "payPalUrl": "",
+    "packages": [
+        {
+            "name": "Somfy MyLink",
+            "category": "Control",
+            "description": "Somfy MyLink Integration",
+            "tags": [
+                "Window Coverings"
+            ],
+            "location": "https://raw.githubusercontent.com/defunctzombie/hubitat-somfy-mylink/master/packageManifest.json",
+            "id": "9afe6b39-26dd-419b-b95c-2d817f765f5d"
+        }
+    ]
+}
